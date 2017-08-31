@@ -1,0 +1,16 @@
+body{
+  display: -webkit-flex;
+  font-size: .12rem;
+  -webkit-flex-direction: column;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.header{
+  height: .5rem;
+  background: #393A3F;
+  color: #fff;
+}
